@@ -15,4 +15,6 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contato
 
-...
+- [🔗 Linkedin](https://www.linkedin.com/in/fsouza-pedro/)
+
+- E-mail: ...
